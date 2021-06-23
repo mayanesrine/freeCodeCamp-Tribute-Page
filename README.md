@@ -1,2 +1,2 @@
 # Tribute Page
-A tribute page created as part of the freeCodeCamp Responsive Web Design Certification.
+A tribute page dedicated to Dr. Norman Borlaug, created as part of the freeCodeCamp Responsive Web Design Certification.
