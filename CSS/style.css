@@ -1,11 +1,11 @@
 html {
     font-size: 10px;
 }
-  
+
 * {
     margin: 0;
 }
-  
+
 body {
     font-family: 'DM Sans', sans-serif;
     font-size: 1.6rem;
@@ -15,7 +15,7 @@ body {
     color: #eee;
     margin: 0;
 }
-  
+
 #title {
     font-family: 'Playfair Display', serif;
     font-size: 3.6rem;
@@ -23,94 +23,95 @@ body {
     margin-top: 12rem;
     margin-bottom: 0;
 }
-  
+
 @media screen and (min-width: 640px) {
     #title {
-        font-size: 4rem;;
+        font-size: 4rem;
+        ;
     }
 }
-  
+
 #sub-title {
     margin-bottom: 16rem;
     letter-spacing: .1rem;
     font-size: 1.4rem;
 }
-  
+
 @media screen and (min-width: 640px) {
     #sub-title {
         font-size: 1.8rem;
     }
 }
-  
+
 #tribute-info {
     margin-top: 8rem 0;
 }
-  
+
 h2 {
     font-size: 3.2rem;
 }
-  
+
 a {
     color: #1ca1f2;
 }
-  
+
 #main {
     margin: 0;
     padding: 1.5rem;
     background: #222;
 }
-  
+
 @media screen and (min-width: 640px) {
     #main {
         margin: 1.6rem;
     }
 }
-  
+
 img {
     max-width: 100%;
     display: block;
     height: auto;
     margin: 0 auto;
 }
-  
+
 #img-div {
     padding: 10px;
     margin: 0;
 }
-  
+
 #img-caption {
     margin: 15px 0 5px 0;
     font-size: 1.2rem;
 }
-  
+
 @media screen and (min-width: 640px) {
     #img-caption {
         font-size: 1.4rem;
     }
 }
-  
+
 #headline {
     margin: 50px 0;
     text-align: center;
 }
-  
+
 ul {
     max-width: 100%;
     margin: 0 auto 50px auto;
     text-align: left;
     line-height: 1.6;
 }
-  
+
 @media screen and (min-width: 640px) {
     ul {
         max-width: 700px;
     }
 }
-  
+
 li {
     margin: 16px 0;
 }
-  
+
 blockquote {
     max-width: 100%;
     font-family: 'Playfair Display', serif;
@@ -118,14 +119,14 @@ blockquote {
     font-style: italic;
     text-align: center;
 }
-  
+
 @media screen and (min-width: 640px) {
     blockquote {
         max-width: 700px;
         font-size: 2rem;
     }
 }
-  
+
 blockquote cite {
     font-size: 1.6rem;
     font-style: normal;
